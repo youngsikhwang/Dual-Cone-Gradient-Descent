@@ -20,7 +20,9 @@ or
 ``` python main.py --equation=${equation} --dcgd=${dcgd_type} --lr=${lr} --optim='adam' --depth=3 --width=50 --batch=128 ```
 
 ## PINNs variants
- 
+For PINNs variants, please refer
+
+https://github.com/hys3835/Dual-Cone-Gradient-Descent/tree/main/Variants  
 
 ## Citation
 ```
