@@ -17,9 +17,7 @@ For chaotic KS equation, please refer
 This code was replicated from original work of [CausalPINNs](https://github.com/PredictiveIntelligenceLab/CausalPINNs) 
 
 ### PINNsFormer
-For convection equation,
-
-Use
+For convection equation, use
 
 *pinnsformer/demo/convection/convection_pinnsformer_dcgd.ipynb*
 
