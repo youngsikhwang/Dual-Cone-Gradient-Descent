@@ -7,6 +7,7 @@ Physics-informed neural networks (PINNs) have emerged as a prominent approach fo
 
 ## Setup
 Please Install the required dependencies:
+
 ```pip install -r requirements.txt```
 
 ## Benchmark equations
