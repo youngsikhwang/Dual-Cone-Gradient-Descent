@@ -11,10 +11,22 @@ Please Install the required dependencies:
 
 ## Benchmark equations
 For experiment of the main benchmark equations, run the bash file
+
 ```bash run_dcgd.sh```
+
 or
+
 ``` python main.py --equation=${equation} --dcgd=${dcgd_type} --lr=${lr} --optim='adam' --depth=3 --width=50 --batch=128 ```
 
 ## PINNs variants
  
 
+## Citation
+```
+@inproceedings{hwang2024dual,
+  title     = {Dual Cone Gradient Descent for Training Physics-Informed Neural Networks},
+  author    = {Hwang, Youngsik and Lim, Dong-Young},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  year      = {2024},
+}
+```
