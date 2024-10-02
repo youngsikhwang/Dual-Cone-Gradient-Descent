@@ -7,13 +7,13 @@ Physics-informed neural networks (PINNs) have emerged as a prominent approach fo
 
 ## Setup
 Please Install the required dependencies:
-'''pip install -r requirements.txt'''
+```pip install -r requirements.txt```
 
 ## Benchmark equations
 For experiment of the main benchmark equations, run the bash file
-'''bash run_dcgd.sh'''
+```bash run_dcgd.sh```
 or
-''' python main.py --equation=${equation} --dcgd=${dcgd_type} --lr=${lr} --optim='adam' --depth=3 --width=50 --batch=128 '''
+``` python main.py --equation=${equation} --dcgd=${dcgd_type} --lr=${lr} --optim='adam' --depth=3 --width=50 --batch=128 ```
 
 ## PINNs variants
  
