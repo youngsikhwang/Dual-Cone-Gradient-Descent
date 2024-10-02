@@ -1,11 +1,5 @@
 ## PINNs variants
  
-### A-PINN
-For 2D-Volterra equation, please refer
-*A-PINN_experiment.ipynb*
-
-This code was replicated from original work of A-PINN (https://github.com/YUANLei2021/A-PINN)
-
 ### SPINN
 Note: please refer the official code of Separable PINN (https://github.com/stnamjef/SPINN.git).
 
