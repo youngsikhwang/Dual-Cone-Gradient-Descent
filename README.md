@@ -28,6 +28,6 @@ or
   title     = {Dual Cone Gradient Descent for Training Physics-Informed Neural Networks},
   author    = {Hwang, Youngsik and Lim, Dong-Young},
   booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
-  year      = {2024},
+  year      = {2024}
 }
 ```
