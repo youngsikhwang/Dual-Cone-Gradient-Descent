@@ -11,6 +11,8 @@ Please Install the required dependencies:
 ```pip install -r requirements.txt```
 
 ## Benchmark equations
+First, run ```mkdir ./results ``` to save evaluation results.
+
 For experiment of the main benchmark equations, run the bash file
 
 ```bash run_dcgd.sh```
@@ -18,6 +20,8 @@ For experiment of the main benchmark equations, run the bash file
 or
 
 ``` python main.py --equation=${equation} --dcgd=${dcgd_type} --lr=${lr} --optim='adam' --depth=3 --width=50 --batch=128 ```
+
+You can choose the DCGD's type by setting ```--dcgd='proj'``` or ```--dcgd='avg'``` or ```--dcgd='center'```.
 
 ## PINNs variants
 For PINNs variants, please refer the [Variants](https://github.com/hys3835/Dual-Cone-Gradient-Descent/tree/main/Variants) folder. 
