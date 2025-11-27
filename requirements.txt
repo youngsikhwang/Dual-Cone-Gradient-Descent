@@ -264,7 +264,6 @@ pyzmq=23.2.0
 qt-main=5.15.2
 qt-webengine=5.15.9
 qtwebkit=5.212
-ray=2.6.3
 readline=8.2
 referencing=0.30.2
 requests=2.28.1
